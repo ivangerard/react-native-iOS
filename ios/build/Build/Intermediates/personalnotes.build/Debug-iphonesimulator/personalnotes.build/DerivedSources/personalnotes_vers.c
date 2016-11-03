@@ -1,0 +1,1 @@
+ const unsigned char personalnotesVersionString[] __attribute__ ((used)) = "@(#)PROGRAM:personalnotes  PROJECT:personalnotes-1" "\n"; const double personalnotesVersionNumber __attribute__ ((used)) = (double)1.;

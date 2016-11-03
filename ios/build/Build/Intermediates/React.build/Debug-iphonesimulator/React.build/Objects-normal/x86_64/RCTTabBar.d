@@ -1,0 +1,22 @@
+dependencies: \
+  /Users/ivangerard/Desktop/personalnotes/node_modules/react-native/React/Views/RCTTabBar.m \
+  /Users/ivangerard/Desktop/personalnotes/node_modules/react-native/React/Views/RCTTabBar.h \
+  /Users/ivangerard/Desktop/personalnotes/node_modules/react-native/React/Base/RCTEventDispatcher.h \
+  /Users/ivangerard/Desktop/personalnotes/node_modules/react-native/React/Base/RCTBridge.h \
+  /Users/ivangerard/Desktop/personalnotes/node_modules/react-native/React/Base/RCTBridgeDelegate.h \
+  /Users/ivangerard/Desktop/personalnotes/node_modules/react-native/React/Base/RCTJavaScriptLoader.h \
+  /Users/ivangerard/Desktop/personalnotes/node_modules/react-native/React/Base/RCTBridgeModule.h \
+  /Users/ivangerard/Desktop/personalnotes/node_modules/react-native/React/Base/RCTDefines.h \
+  /Users/ivangerard/Desktop/personalnotes/node_modules/react-native/React/Base/RCTFrameUpdate.h \
+  /Users/ivangerard/Desktop/personalnotes/node_modules/react-native/React/Base/RCTInvalidating.h \
+  /Users/ivangerard/Desktop/personalnotes/node_modules/react-native/React/Base/RCTLog.h \
+  /Users/ivangerard/Desktop/personalnotes/node_modules/react-native/React/Base/RCTAssert.h \
+  /Users/ivangerard/Desktop/personalnotes/node_modules/react-native/React/Views/RCTTabBarItem.h \
+  /Users/ivangerard/Desktop/personalnotes/node_modules/react-native/React/Views/RCTComponent.h \
+  /Users/ivangerard/Desktop/personalnotes/node_modules/react-native/React/Base/RCTUtils.h \
+  /Users/ivangerard/Desktop/personalnotes/node_modules/react-native/React/Views/RCTView.h \
+  /Users/ivangerard/Desktop/personalnotes/node_modules/react-native/React/Views/RCTBorderStyle.h \
+  /Users/ivangerard/Desktop/personalnotes/node_modules/react-native/React/Views/RCTPointerEvents.h \
+  /Users/ivangerard/Desktop/personalnotes/node_modules/react-native/React/Views/RCTViewControllerProtocol.h \
+  /Users/ivangerard/Desktop/personalnotes/node_modules/react-native/React/Views/RCTWrapperViewController.h \
+  /Users/ivangerard/Desktop/personalnotes/node_modules/react-native/React/Views/UIView+React.h
